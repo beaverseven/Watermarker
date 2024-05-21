@@ -1,3 +1,5 @@
+This project allows you to add a watermark to an image, either a text watermark or an image watermark. This project utilizes OpenCV to add logos and text as a watermark.
+
 Step to run application:
 Step 1:	Create the copy of the project.
 Step 2: Open command prompt and change your current path 
